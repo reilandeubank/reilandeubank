@@ -1,6 +1,7 @@
 ### Hello!
 
 I am a Computer Science student at the University of Alabama, currently loving everything Go.
+
 Co-Developer behind [LessieSmart](https://lessiesmart.com), an AI tool for teachers.
 
 <!--
