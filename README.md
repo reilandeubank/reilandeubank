@@ -1,6 +1,7 @@
 ### Hello!
 
 I am a Computer Science student at the University of Alabama, currently loving everything Go.
+Co-Developer behind [LessieSmart](https://lessiesmart.com), an AI tool for teachers.
 
 <!--
 **reilandeubank/reilandeubank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
