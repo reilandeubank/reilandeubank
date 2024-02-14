@@ -2,6 +2,8 @@
 
 I am a Computer Science student at the University of Alabama, currently loving everything Go.
 
+Working as a Software Developer for [Student Seats](https://studentseats.com/), a platform for students to buy, sell, and trade tickets without the fear of fraud
+
 Co-Developer behind [LessieSmart](https://lessiesmart.com), an AI tool for teachers.
 
 <!--
