@@ -1,10 +1,8 @@
 ### Hello!
 
-I am a Computer Science student at the University of Alabama, currently loving everything Go.
+I am a Computer Science and MBA student at The University of Alabama.
 
-Working as a Software Developer for [Student Seats](https://studentseats.com/), a platform for students to buy, sell, and trade tickets without the fear of fraud
-
-Co-Developer behind [LessieSmart](https://lessiesmart.com), an AI tool for teachers.
+Software Developer for [Student Seats](https://studentseats.com/) and Software Engineering Intern at Garmin Intl.
 
 <!--
 **reilandeubank/reilandeubank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
