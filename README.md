@@ -1,8 +1,8 @@
 ### Hello!
 
-I am a Computer Science and MBA student at The University of Alabama.
+I am a Computer Science grad and MBA student at The University of Alabama.
 
-Software Developer for [Student Seats](https://studentseats.com/) and Software Engineering Intern at Garmin Intl.
+Software Developer for [Student Seats](https://studentseats.com/) and incoming Software Engineer I at Garmin Intl.
 
 <!--
 **reilandeubank/reilandeubank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
