@@ -2,7 +2,7 @@
 
 I am a Computer Science grad and MBA student at The University of Alabama.
 
-Software Developer for [Student Seats](https://studentseats.com/) Software Engineer I at Garmin Intl.
+Software Developer for [Student Seats](https://studentseats.com/) and Software Engineer 1 at Garmin Intl.
 
 <!--
 **reilandeubank/reilandeubank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
