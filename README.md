@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a Computer Science grad and MBA student at The University of Alabama.
+I am a graduate of the University of Alabama with a BS in Computer Science and an MBA.
 
 Software Developer for [Student Seats](https://studentseats.com/) and Software Engineer 1 at Garmin Intl.
 
